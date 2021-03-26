@@ -31,6 +31,6 @@
 </details>
 
 
-[website]: https://www.w3schools.com
+[website]:  https://lucifer-2020.github.io/LUCIFER-2020/.
 [twitter]: https://mobile.twitter.com/SuvarnaRenesh
 [instagram]: https://www.instagram.com/renesh_2020
