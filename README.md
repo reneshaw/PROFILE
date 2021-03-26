@@ -1,7 +1,7 @@
 ### Hi there, I'm Renesh - aka LUCIFER👋
-[![LICENSE: MIT](https://img.shields.io/website?label=LICENCSE-MIT&style=for-the-badge&url=https%3A%2F%2F.github.com/LUCIFER-2020/PROJECT/blob/main/LICENSE)](https://github.com/LUCIFER-2020/PROJECT/blob/main/LICENSE)
+[![WEBSITE](https://img.shields.io/website?label=WEBSITE&style=for-the-badge&url=https%3A%2F%2F.lucifer-2020.github.io/LUCIFER-2020/.)](https://lucifer-2020.github.io/LUCIFER-2020/.)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SuvarnaRenesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://mobile.twitter.com/SuvarnaRenesh)
-[![Website](https://img.shields.io/website?label=W3SCHOOLS.com&style=for-the-badge&url=https%3A%2F%2F.w3schools.com/)](https://www.w3schools.com/)
+[![INSTAGRAM](https://img.shields.io/website?label=&style=for-the-badge&url=https%3A%2F%2F.instagram.com/)](https://www.instagram.com/renesh_2020)
 
 ## I'm a Student, Son, Web Developer, and Hacker!!
 
