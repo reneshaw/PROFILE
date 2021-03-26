@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+### Hi there, I'm Renesh - aka LUCIFER👋
+[![LICENSE: MIT](https://img.shields.io/website?label=LICENCSE-MIT&style=for-the-badge&url=https%3A%2F%2F.github.com/LUCIFER-2020/PROJECT/blob/main/LICENSE)](https://github.com/LUCIFER-2020/PROJECT/blob/main/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SuvarnaRenesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://mobile.twitter.com/SuvarnaRenesh)
+[![Website](https://img.shields.io/website?label=W3SCHOOLS.com&style=for-the-badge&url=https%3A%2F%2F.w3schools.com/)](https://www.w3schools.com/)
 
-You can use the [editor on GitHub](https://github.com/LUCIFER-2020/LUCIFER-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## I'm a Student, Son, Web Developer, and Hacker!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 📃One programmer makes the program, others are just looking for the source code.📃
+- 🔭 I usually write my codes with VS Codeand Sublime Text 3
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play cook / cricket
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Spotify Playing 🎧
 
-```markdown
-Syntax highlighted code block
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-# Header 1
-## Header 2
-### Header 3
+### Connect with me:
 
-- Bulleted
-- List
+[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://visualpharm.com/assets/80/Globe%20Earth-595b40b65ba036ed117d1cfe.svg" />][Website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<br />
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LUCIFER-2020/LUCIFER-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</details>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[website]: https://www.w3schools.com
+[twitter]: https://mobile.twitter.com/SuvarnaRenesh
+[instagram]: https://www.instagram.com/renesh_2020
