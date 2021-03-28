@@ -1,36 +1,38 @@
-### Hi there, I'm Renesh - aka LUCIFER👋
-[![WEBSITE](https://img.shields.io/website?label=WEBSITE&style=for-the-badge&url=https%3A%2F%2F.lucifer-2020.github.io/LUCIFER-2020/.)](https://lucifer-2020.github.io/LUCIFER-2020/.)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SuvarnaRenesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://mobile.twitter.com/SuvarnaRenesh)
-## I'm a Student, Son, Web Developer, and Hacker!!
+<!-- Github README -->
+<p align="center"><a href="https://github.com/LUCIFER-2020">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LUCIFER-2020&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/LUCIFER-2020"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
-### 📃One programmer makes the program, others are just looking for the source code.📃
-- 🔭 I usually write my codes with VS Codeand Sublime Text 3
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play cook / cricket
+<h2><b><i>Howdy , it's LUCIFER-2020 👋</i></b></h2>
+<b><i>💻 I'm a Student & A part time Programmer</i></b>
 
+<h3><b><i>🤠 About me :</i></b></h3>
+<li> 🇧🇩 <i>Resident of India</i></li>
+<li> 😇 <i>Coder</i></li>
+<li> 😐 <i>Studying at Kindergarten</i></li>
+<li> 😪 <i>Love Sleeping</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 😆 <i>Trying to learn Everything</i></li>
+<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
-### Spotify Playing 🎧
+<h3><b><i>☠ Works :</i></b></h3>
+<li> <a href="https://github.com/LUCIFER-2020/EasY_HaCk">EasY_HaCk - Hack the World using Termux this tool is a developed by R_Developments for penetration testing.</a>
+<li> <a href="https://github.com/LUCIFER-2020/SocialBox">SocialBoxr - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By R_Developments.</a>
+<li> <a href="https://github.com/LUCIFER-2020/saychesse">saychesse - A tool to hack camera from termux.</a>
+<li> <a href="https://github.com/LUCIFER-2020/EAGLE_EYE">EAGLE_EYE - You have at least one image of the person you are looking for and a clue about their name.
+You enter this data into EagleEye and it tries to find Instagram, Youtube, Facebook, and Twitter Profiles of this person.</a>
+<li> <a href="https://github.com/LUCIFER-2020/RED_HAWK">RED_HAWK - All in one tool for Information Gathering and Vulnerability Scanning.</a>
+<li> <a href="https://github.com/LUCIFER-2020/IP-TRACER">IP - TRACER - IP-Tracer is developed for Termux and Linux based systems.</a>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/LUCIFER-2020"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-### Connect with me:
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/LUCIFER-2020"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LUCIFER-2020h&color=blueviolet&style=flat-square"></a>
 
-[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://visualpharm.com/assets/80/Globe%20Earth-595b40b65ba036ed117d1cfe.svg" />][Website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+<a href="https://github.com/LUCIFER-2020"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://www.instagram.com/renesh_2020"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
-
-<br />
-
-
----
-
-
-</details>
-
-
-[website]:  https://lucifer-2020.github.io/LUCIFER-2020/.
-[twitter]: https://mobile.twitter.com/SuvarnaRenesh
-[instagram]: https://www.instagram.com/renesh_2020
