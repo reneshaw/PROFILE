@@ -26,7 +26,7 @@
 <li> <a href="https://github.com/LUCIFER-2020/IP-TRACER">IP - TRACER - IP-Tracer is developed for Termux and Linux based systems.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
 
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
