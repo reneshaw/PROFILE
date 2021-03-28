@@ -19,7 +19,7 @@
 
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/LUCIFER-2020/EasY_HaCk">EasY_HaCk - Hack the World using Termux this tool is a developed by R_Developments for penetration testing.</a>
-<li> <a href="https://github.com/LUCIFER-2020/SocialBox">SocialBoxr - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By R_Developments.</a>
+<li> <a href="https://github.com/LUCIFER-2020/SocialBox">SocialBoxr - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ].</a>
 <li> <a href="https://github.com/LUCIFER-2020/saychesse">saychesse - A tool to hack camera from termux.</a>
 <li> <a href="https://github.com/LUCIFER-2020/EAGLE_EYE">EAGLE_EYE - You enter data into EagleEye and it tries to find Instagram, Youtube, Facebook, and Twitter Profiles of this person.</a>
 <li> <a href="https://github.com/LUCIFER-2020/RED_HAWK">RED_HAWK - All in one tool for Information Gathering and Vulnerability Scanning.</a>
