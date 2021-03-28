@@ -36,7 +36,7 @@
 <a href="https://github.com/LUCIFER-2020"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://www.instagram.com/renesh_2020"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://twitter.com/SuvarnaRenesh"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter-logo-2-1.png" /></a>
-<a href="https://snapchat.com/renesh_2020"><img align="left" title="Snapchat" alt="Snapchat" width="30px" src="assets/580b57fcd9996e24bc43c536.png" /></a>
+<a href="https://snapchat.com/renesh_2020/profile"><img align="left" title="Snapchat" alt="Snapchat" width="30px" src="assets/580b57fcd9996e24bc43c536.png" /></a>
 
 
 
