@@ -6,8 +6,11 @@
 </a></p>
 
 <h2><b><i>Howdy , it's LUCIFER-2020 👋</i></b></h2>
+<p align="center">
+<a href="https://github.com/  LUCIFER-2020"><img title="Author" src="https://img.shields.io/badge/PROFILE-@LUCIFER2020-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+</p>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
-
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇧🇩 <i>Resident of India</i></li>
 <li> 😇 <i>Coder</i></li>
