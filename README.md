@@ -32,6 +32,8 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/LUCIFER-2020"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LUCIFER-2020h&color=blueviolet&style=flat-square"></a>
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=SocialBox)](https://github.com/LUCIFER-2020/SocialBox)
+
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/LUCIFER-2020"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://www.instagram.com/renesh_2020"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
