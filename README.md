@@ -54,7 +54,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<h3><b><i>📡 Get in Touch :</i></b></h3>
+
+### <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/LUCIFER-2020"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://www.instagram.com/renesh_2020"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://twitter.com/SuvarnaRenesh"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter-logo-2-1.png" /></a>
