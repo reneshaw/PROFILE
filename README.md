@@ -17,14 +17,6 @@
 <li> 😆 <i>Trying to learn Everything</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
-<h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/LUCIFER-2020/EasY_HaCk">EasY_HaCk - Hack the World using Termux this tool is a developed by R_Developments for penetration testing.</a>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=SocialBox)](https://github.com/LUCIFER-2020/SocialBox)
-
-<li> <a href="https://github.com/LUCIFER-2020/saychesse">saychesse - A tool to hack camera from termux.</a>
-<li> <a href="https://github.com/LUCIFER-2020/EAGLE_EYE">EAGLE_EYE - You enter data into EagleEye and it tries to find Instagram, Youtube, Facebook, and Twitter Profiles of this person.</a>
-<li> <a href="https://github.com/LUCIFER-2020/RED_HAWK">RED_HAWK - All in one tool for Information Gathering and Vulnerability Scanning.</a>
-<li> <a href="https://github.com/LUCIFER-2020/IP-TRACER">IP - TRACER - IP-Tracer is developed for Termux and Linux based systems.</a>
 
 <h3><b><i>🎧 Spotify Playing 🎧</i></b></h3>
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
@@ -32,6 +24,8 @@
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/LUCIFER-2020"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LUCIFER-2020h&color=blueviolet&style=flat-square"></a>
+
+<h3><b><i>☠ Works :</i></b></h3>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=SocialBox)](https://github.com/LUCIFER-2020/SocialBox)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=RED_HAWK)](https://github.com/LUCIFER-2020/RED_HAWK)
