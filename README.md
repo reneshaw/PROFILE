@@ -38,9 +38,6 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=saychesse)](https://github.com/LUCIFER-2020/saychesse)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=EAGLE_EYE)](https://github.com/LUCIFER-2020/EAGLE_EYE)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=IP-TRACER)](https://github.com/LUCIFER-2020/IP-TRACER)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=IP-TRACER)](https://github.com/LUCIFER-2020/IP-TRACER)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=RED_HAWK)](https://github.com/LUCIFER-2020/RED_HAWK)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=RED_HAWK)](https://github.com/LUCIFER-2020/RED_HAWK)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LUCIFER-2020&repo=EasY_HaCK)](https://github.com/LUCIFER-2020/EasY_HaCK)
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
