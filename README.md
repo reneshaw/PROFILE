@@ -7,7 +7,7 @@
 
 <h2><b><i>Howdy , it's htr-techs 👋</i></b></h2>
 <p align="center">
-<a href="https://github.com/htr-techs"><img title="Author" src="https://img.shields.io/badge/PROFILE-@htr-techs-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/htr-techs"><img title="Author" src="https://img.shields.io/badge/PROFILE-@htr_techs-red.svg?style=for-the-badge&logo=github"></a>
 <a href=""><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 <a href="https://twitter.com/SuvarnaRenesh"><img title="Twitter" src="https://img.shields.io/badge/TWITTER-%40SuvarnaRenesh-blue?style=for-the-badge&logo=twitter"></a>
 <a href="https://instagram.com/renesh_2020"><img title="Open Source" src="https://img.shields.io/badge/INSTAGRAM-%40renesh_2020-red?style=for-the-badge&logo=instagram"></a>
