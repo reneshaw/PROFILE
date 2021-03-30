@@ -1,13 +1,13 @@
 <!-- Github README -->
-<p align="center"><a href="https://github.com/LUCIFER-2020">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LUCIFER-2020&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=3200&hide_border=true" /></a>
+<p align="center"><a href="https://github.com/htr-techs">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-techs&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/LUCIFER-2020"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/htr-techs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-techs&layout=compact&theme=tokyonight&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's LUCIFER-2020 👋</i></b></h2>
+<h2><b><i>Howdy , it's htr-techs 👋</i></b></h2>
 <p align="center">
-<a href="https://github.com/LUCIFER-2020"><img title="Author" src="https://img.shields.io/badge/PROFILE-@LUCIFER2020-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/htr-techs"><img title="Author" src="https://img.shields.io/badge/PROFILE-@LUCIFER2020-red.svg?style=for-the-badge&logo=github"></a>
 <a href=""><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 <a href="https://twitter.com/SuvarnaRenesh"><img title="Twitter" src="https://img.shields.io/badge/TWITTER-%40SuvarnaRenesh-blue?style=for-the-badge&logo=twitter"></a>
 <a href="https://instagram.com/renesh_2020"><img title="Open Source" src="https://img.shields.io/badge/INSTAGRAM-%40renesh_2020-red?style=for-the-badge&logo=instagram"></a>
@@ -28,7 +28,7 @@
 
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/LUCIFER-2020"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LUCIFER-2020h&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/htr-techs"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LUCIFER-2020h&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>☠ Works :</i></b></h3>
 
