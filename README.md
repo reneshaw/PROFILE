@@ -28,7 +28,7 @@
 
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-techs"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LUCIFER-2020h&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/htr-techs"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-techsh&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>☠ Works :</i></b></h3>
 
