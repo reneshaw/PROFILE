@@ -5,7 +5,7 @@
 <a href="https://github.com/LinkVegas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkVegas&layout=compact&theme=tokyonight&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's htr-techs 👋</i></b></h2>
+<h2><b><i>Howdy , it's LinkVegas 👋</i></b></h2>
 <p align="center">
 <a href="https://github.com/LinkVeags"><img title="Author" src="https://img.shields.io/badge/PROFILE-@htr_techs-red.svg?style=for-the-badge&logo=github"></a>
 <a href=""><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-darkgreen?style=for-the-badge"></a>
