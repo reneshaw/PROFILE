@@ -25,7 +25,7 @@
 
 
 <h3><b><i>🎧 Spotify Playing 🎧</i></b></h3>
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0JpkcEtZWGrfuDYOzGI5dr?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
